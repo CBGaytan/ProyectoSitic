@@ -1,0 +1,6 @@
+@productobll_HostAddress = http://localhost:5277
+
+GET {{productobll_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
