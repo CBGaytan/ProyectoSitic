@@ -1,0 +1,6 @@
+@vo2_HostAddress = http://localhost:5076
+
+GET {{vo2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
