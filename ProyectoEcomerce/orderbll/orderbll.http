@@ -1,6 +1,0 @@
-@orderbll_HostAddress = http://localhost:5083
-
-GET {{orderbll_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
