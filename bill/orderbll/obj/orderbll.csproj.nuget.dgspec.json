@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/ProyectoEcomerce/orderbll/orderbll.csproj": {}
+    "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/bill/orderbll/orderbll.csproj": {}
   },
   "projects": {
-    "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/ProyectoEcomerce/orderbll/orderbll.csproj": {
+    "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/bill/orderbll/orderbll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/ProyectoEcomerce/orderbll/orderbll.csproj",
+        "projectUniqueName": "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/bill/orderbll/orderbll.csproj",
         "projectName": "orderbll",
-        "projectPath": "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/ProyectoEcomerce/orderbll/orderbll.csproj",
+        "projectPath": "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/bill/orderbll/orderbll.csproj",
         "packagesPath": "/Users/cristiangaytan/.nuget/packages/",
-        "outputPath": "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/ProyectoEcomerce/orderbll/obj/",
+        "outputPath": "/Users/cristiangaytan/Documents/Sitic/ProyectoSitic/bill/orderbll/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cristiangaytan/.nuget/NuGet/NuGet.Config"
